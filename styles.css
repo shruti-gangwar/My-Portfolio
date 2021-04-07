@@ -511,7 +511,7 @@ background: #151617;
 	font-weight: bold;
 }
 #testimonials
-{padding-top: 50px;
+{padding-top: 20px;
 padding-bottom: 50px;
 }
 #testimonials h3
@@ -557,9 +557,9 @@ border: 10px solid #fff;
 }
 .profile h3
 {
-font-size: 23px;
-margin-top: 15px;
+font-size: 20px;
 color: #f3004f !important;
+font-weight: bold;
 }
 #testimonials span
 {
